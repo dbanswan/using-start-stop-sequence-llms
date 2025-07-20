@@ -34,6 +34,8 @@ def chat(stop_sequences=[]):
     print(message.content[0].text)
 
 
-add_user_message("write a json file with test user and their name, age")
+add_user_message(
+    "Generate 3 different simple AWS CLI commands. Each should be very short"
+)
 add_system_message("")
 chat()

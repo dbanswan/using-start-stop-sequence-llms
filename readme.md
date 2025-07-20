@@ -45,3 +45,6 @@ python using-start-stop-sequence.py
 This will be a valid JSON response without any header or footer text, also without any markdown code block.
 
 Feel free to modify or change the prompts in both the scripts to see how the response changes.
+
+Credits :
+Thanks Anthropic Academy✌🏼
